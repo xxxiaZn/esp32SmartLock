@@ -21,6 +21,7 @@
 ## 效果图:
 <img src="./image/IMG20241012091831.jpg">
 <img src="./image/IMG20241012091932.jpg">
+<img src="./image/accessControl.jpg">
 
 ## 硬件接线：
 <img src="./image/smartLock.png">
